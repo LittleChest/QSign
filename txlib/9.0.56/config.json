@@ -1,9 +1,9 @@
 {
   "server": {
     "host": "0.0.0.0",
-    "port": 4848
+    "port": 80
   },
-  "key": "114514",
+  "key": "QSign9056",
   "auto_register": false,
   "protocol": {
     "package_name": "com.tencent.mobileqq",
@@ -16,7 +16,5 @@
     "unicorn": true,
     "debug": false
   },
-  "black_list": [
-    1008611
-  ]
+  "black_list": []
 }
